@@ -1,0 +1,8 @@
+env
+*.bak
+*.pyc
+__pycache__
+results
+models
+cache
+.tmp
